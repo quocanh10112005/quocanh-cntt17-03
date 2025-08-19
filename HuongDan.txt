@@ -1,0 +1,14 @@
+⚙️ Chuẩn bị môi trường
+
+Cần cài đặt:
+
+pip install pytesseract pillow opencv-python
+
+----
+Và tải Tesseract OCR:
+
+Windows: tải tại https://github.com/UB-Mannheim/tesseract/wiki
+
+---
+
+Cách chạy : streamlit run app.py
